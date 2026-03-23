@@ -1,11 +1,11 @@
 # gan
 
-## active backend
+## activate backend
 ```
 ggc gan
 ```
 
-## active frontend
+## activate frontend
 ```
 npm run dev
 ```
